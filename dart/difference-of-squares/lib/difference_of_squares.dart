@@ -1,15 +1,9 @@
 class DifferenceOfSquares {
-  int squareOfSum(int n) {
-    return sum(rangeList(1, n + 1));
-  }
+  int squareOfSum(int n) => square(sum(rangeList(1, n + 1)));
 
-  int sumOfSquares(int n) {
-    return sum(rangeList(1, n + 1).map(square));
-  }
+  int sumOfSquares(int n) => sum(rangeList(1, n + 1).map(square));
 
-  int differenceOfSquares(int n) {
-    return sumOfSquares(n) - squareOfSum(n);
-  }
+  int differenceOfSquares(int n) => squareOfSum(n) - sumOfSquares(n);
 }
 
 int square(int n) {
