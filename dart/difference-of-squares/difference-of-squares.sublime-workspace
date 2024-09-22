@@ -532,12 +532,16 @@
 		"selected_items":
 		[
 			[
-				"sa",
-				"Project: Save As"
-			],
-			[
 				"close",
 				"Project: Close"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"sa",
+				"Project: Save As"
 			],
 			[
 				"edit",
@@ -996,6 +1000,8 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/difference-of-squares/test/difference_of_squares_test.dart",
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/difference-of-squares/lib/difference_of_squares.dart",
 		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/two-fer/two-fer.sublime-project",
 		"/C/Users/Jeremiah Olatunde/home/coding/exercism/README.md",
 		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/leap/test/leap_test.dart",
@@ -1121,9 +1127,7 @@
 		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/layout.tsx",
 		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/TableContainer.tsx",
 		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/Overview.tsx",
-		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/utilities.ts",
-		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/Authentication/LogoutTimer.tsx",
-		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/NOTES.md"
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/utilities.ts"
 	],
 	"find":
 	{
@@ -1164,6 +1168,11 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
@@ -1183,11 +1192,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1231,12 +1247,12 @@
 		"selected_items":
 		[
 			[
-				"lib",
-				"lib\\leap.dart"
+				"test",
+				"test\\difference_of_squares_test.dart"
 			],
 			[
-				"test",
-				"test\\leap_test.dart"
+				"lib",
+				"lib\\difference_of_squares.dart"
 			],
 			[
 				"schemas",
@@ -1707,7 +1723,7 @@
 		],
 		"width": 574.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},

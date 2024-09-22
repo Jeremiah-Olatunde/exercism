@@ -1,13 +1,25 @@
 class DifferenceOfSquares {
-  int squareOfSum(int n){
-    return [for(int i = 1; i <= n; i++) i].reduce((a, b) => a + b);
+  int squareOfSum(int n) {
+    return sum(rangeList(1, n + 1));
   }
 
-  int sumOfSquares(int n){
-    return [for(int i = 1; i < n; i++) i].map((i) => i ^ 2).reduce((a, b) => a + b);
+  int sumOfSquares(int n) {
+    return sum(rangeList(1, n + 1).map(square));
   }
 
-  int differenceOfSquares(int n){
+  int differenceOfSquares(int n) {
     return sumOfSquares(n) - squareOfSum(n);
   }
+}
+
+int square(int n) {
+  return n * n;
+}
+
+int sum(Iterable<int> xs) {
+  return xs.reduce((a, b) => a + b);
+}
+
+Iterable<int> rangeList(int start, int stop) {
+  return [for (int i = start; i < stop; i++) i];
 }
