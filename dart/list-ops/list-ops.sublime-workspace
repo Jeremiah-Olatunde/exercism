@@ -1,0 +1,1781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"appe",
+				"_append(…) → void"
+			],
+			[
+				"rev",
+				"reverse() → List<T>"
+			],
+			[
+				"re",
+				"reduce(…) → int"
+			],
+			[
+				"to",
+				"toList(…) → List<String Function()>"
+			],
+			[
+				"ma",
+				"map(…) → Iterable<T>"
+			],
+			[
+				"toStirng",
+				"toRadixString(…) → String"
+			],
+			[
+				"Integ",
+				"IntegerDouble"
+			],
+			[
+				"MyC",
+				"MyClassV2"
+			],
+			[
+				"My",
+				"MyDataObject(…) → MyDataObject"
+			],
+			[
+				"Sho",
+				"ShoppingCart"
+			],
+			[
+				"countr",
+				"countries"
+			],
+			[
+				"resolv",
+				"resolve"
+			],
+			[
+				"formatt",
+				"formattedOutput"
+			],
+			[
+				"writeFile",
+				"writeFileSync"
+			],
+			[
+				"babel",
+				"babel-ts"
+			],
+			[
+				"curren",
+				"currencyCodes"
+			],
+			[
+				"forma",
+				"formattedOutput"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"counr",
+				"countrySchemas"
+			],
+			[
+				"currenc",
+				"currencyCodes"
+			],
+			[
+				"fetch",
+				"fetchAllCountries"
+			],
+			[
+				"un",
+				"union"
+			],
+			[
+				"countries",
+				"countriesResponse"
+			],
+			[
+				"refr",
+				"refreshToken"
+			],
+			[
+				"ref",
+				"refreshTokenUser"
+			],
+			[
+				"Refres",
+				"RefreshTokenUserResponseSchema"
+			],
+			[
+				"User",
+				"UserData"
+			],
+			[
+				"repson",
+				"responseVerifyOTP"
+			],
+			[
+				"veri",
+				"verify-otp"
+			],
+			[
+				"verif",
+				"verifyOTPUser"
+			],
+			[
+				"Ver",
+				"VerifyOTPUserResponseSchema"
+			],
+			[
+				"Verif",
+				"VerifyOTPUserResponse"
+			],
+			[
+				"Verify",
+				"VerifyOTPUserResponseSchema"
+			],
+			[
+				"Permis",
+				"PermissionsUserSchema"
+			],
+			[
+				"Axios",
+				"AxiosError"
+			],
+			[
+				"Zod",
+				"ZodError"
+			],
+			[
+				"login",
+				"loginUser"
+			],
+			[
+				"axo",
+				"axiosResponse"
+			],
+			[
+				"cust",
+				"customerCCY"
+			],
+			[
+				"respn",
+				"responseType?"
+			],
+			[
+				"LoginRe",
+				"LoginUserResponse"
+			],
+			[
+				"Permins",
+				"PermissionsUser"
+			],
+			[
+				"pri",
+				"pricePerUnit?"
+			],
+			[
+				"pir",
+				"pricePerUnit?"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"pr",
+				"priceLCY?"
+			],
+			[
+				"filter",
+				"filteredProducts"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"date",
+				"datePaid"
+			],
+			[
+				"invoice",
+				"invoiceId"
+			],
+			[
+				"item",
+				"items-center"
+			],
+			[
+				"just",
+				"justify-center"
+			],
+			[
+				"comma",
+				"commaDelimitedAmt"
+			],
+			[
+				"price",
+				"pricePerUnit"
+			],
+			[
+				"customer",
+				"customerCCY"
+			],
+			[
+				"bg-yala",
+				"bg-yalaBlack"
+			],
+			[
+				"Invoice",
+				"InvoiceConfig"
+			],
+			[
+				"total",
+				"totalDiscount"
+			],
+			[
+				"tota",
+				"totalTax"
+			],
+			[
+				"tot",
+				"totalTax"
+			],
+			[
+				"calc",
+				"calculateSubtoal"
+			],
+			[
+				"custom",
+				"customerEmail"
+			],
+			[
+				"cus",
+				"customerName"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"targ",
+				"targetResult"
+			],
+			[
+				"Date",
+				"DateInfo"
+			],
+			[
+				"access",
+				"accessKeyId"
+			],
+			[
+				"border-red",
+				"border-red-200"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"text-yala",
+				"text-yalaBlack"
+			],
+			[
+				"jus",
+				"justify-between"
+			],
+			[
+				"grid-c",
+				"grid-cols-2"
+			],
+			[
+				"text-l",
+				"text-lg"
+			],
+			[
+				"text-yal",
+				"text-yalaBlack"
+			],
+			[
+				"p-2",
+				"p-28"
+			],
+			[
+				"bas",
+				"basis-1"
+			],
+			[
+				"grid-co",
+				"grid-cols-2"
+			],
+			[
+				"grid-col",
+				"grid-cols-7"
+			],
+			[
+				"grid-",
+				"grid-cols-3"
+			],
+			[
+				"bg-bl",
+				"bg-blue-300"
+			],
+			[
+				"aspe",
+				"aspect-square"
+			],
+			[
+				"bg-red",
+				"bg-red-300"
+			],
+			[
+				"en",
+				"enquiryPhoneNumber"
+			],
+			[
+				"isValid",
+				"isValidEmail"
+			],
+			[
+				"qu",
+				"enquiryEmail"
+			],
+			[
+				"enqu",
+				"enquiryEmail"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"set",
+				"setFieldValue"
+			],
+			[
+				"ha",
+				"handleSubmit"
+			],
+			[
+				"refre",
+				"refreshToken"
+			],
+			[
+				"curs",
+				"cursor-pointer"
+			],
+			[
+				"BUG",
+				"BUG_FIX_customerCCY"
+			],
+			[
+				"capp",
+				"capApplied"
+			],
+			[
+				"BUGFee",
+				"BUG_FIX_combinedFee"
+			],
+			[
+				"BUGombine",
+				"BUG_FIX_combinedFee"
+			],
+			[
+				"payme",
+				"paymentStatus"
+			],
+			[
+				"setVer",
+				"setVerificationStatus"
+			],
+			[
+				"VerificationSucc",
+				"VerificationSuccessModal"
+			],
+			[
+				"Veri",
+				"VerificationFailure"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"use",
+				"useRouter"
+			],
+			[
+				"YalaB",
+				"YalaButtonWhite"
+			],
+			[
+				"Yala",
+				"YalaButtonLight"
+			],
+			[
+				"border-b-",
+				"border-b-2"
+			],
+			[
+				"Busin",
+				"BusinessFeeProfile"
+			],
+			[
+				"amount",
+				"BUG_FIX_amountLCY"
+			],
+			[
+				"BUG_FIX_busin",
+				"BUG_FIX_businessFeeProfile"
+			],
+			[
+				"BUG_FIX_bus",
+				"BUG_FIX_businessFeeProfile"
+			],
+			[
+				"BUG_FIX_BUSIN",
+				"BUG_FIX_businessFeeProfile"
+			],
+			[
+				"BUG_",
+				"BUG_FIX_amountLCY"
+			],
+			[
+				"fee",
+				"feeRate"
+			],
+			[
+				"BUG_FIX_setPro",
+				"BUG_FIX_setUserChosenProviderInfo"
+			],
+			[
+				"Provide",
+				"ProvidersPaymentInfo"
+			],
+			[
+				"BU",
+				"BUG_FIX_rate"
+			],
+			[
+				"BUG_FIX_setBus",
+				"BUG_FIX_setBusinessFeeProfile"
+			],
+			[
+				"Provider",
+				"ProvidersPaymentInfo"
+			],
+			[
+				"Busine",
+				"BusinessFeeProfile"
+			],
+			[
+				"Business",
+				"BusinessFeeProfile"
+			],
+			[
+				"w-min",
+				"w-min"
+			],
+			[
+				"sameCC",
+				"isSameCCYHide"
+			],
+			[
+				"getBusin",
+				"getBusinessId"
+			],
+			[
+				"BUG_FIX",
+				"BUG_FIX_finalAmount"
+			],
+			[
+				"isSam",
+				"isSameCCYHide"
+			],
+			[
+				"isSame",
+				"isSameCCYHide"
+			],
+			[
+				"BUG_FI",
+				"BUG_FIX_setRate"
+			],
+			[
+				"custo",
+				"customerCCY"
+			],
+			[
+				"fallbac",
+				"fallbackResult"
+			],
+			[
+				"target",
+				"targetResult"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"fo",
+				"LSP: Format File"
+			],
+			[
+				"for",
+				"LSP: Format File"
+			],
+			[
+				"res",
+				"LSP: Restart Server"
+			],
+			[
+				"ress",
+				"LSP: Restart Server"
+			],
+			[
+				"resta",
+				"LSP: Restart Server"
+			],
+			[
+				"disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"LSP-DA",
+				"Preferences: LSP-Dart Settings"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dir",
+				"File: Copy Project Directories "
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"rename",
+				"LSP: Rename"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"folder",
+				"File: New Folder"
+			],
+			[
+				"dire",
+				"File: Copy Project Directories "
+			],
+			[
+				"new fodl",
+				"File: New Folder"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"new ",
+				"File: New File"
+			],
+			[
+				"LSP re",
+				"LSP: Rename"
+			],
+			[
+				"Rena",
+				"LSP: Rename"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"new",
+				"File: New File"
+			],
+			[
+				"rena",
+				"LSP: Rename"
+			],
+			[
+				"set sy ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disab",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"DIRE",
+				"File: Copy Project Directories "
+			],
+			[
+				"syntax ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"th",
+				"UI: Select Theme"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ls",
+				"Package Control: List Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"enable bac",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"direc",
+				"File: Copy Project Directories "
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"file pa",
+				"File: Copy Path"
+			],
+			[
+				"directo",
+				"File: Copy Project Directories "
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"copy",
+				"File: Copy Project Directories "
+			],
+			[
+				"co",
+				"File: Copy Path"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"prettie",
+				"JsPrettier: Format Code"
+			],
+			[
+				"dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"syjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"prette",
+				"JsPrettier: Format Code"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"restart",
+				"LSP: Restart Server"
+			],
+			[
+				"lsp res",
+				"LSP: Restart Server"
+			],
+			[
+				"n",
+				"File: New File"
+			],
+			[
+				"Termin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"Prefer",
+				"Preferences: Settings"
+			],
+			[
+				"Term",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"setting pr",
+				"Preferences: Settings"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"Find in",
+				"LSP: Find References (Output Panel)"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON (Rails)"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"full",
+				"View: Toggle Full Screen"
+			],
+			[
+				"ful",
+				"View: Toggle Full Screen"
+			],
+			[
+				"new fie",
+				"File: New File"
+			],
+			[
+				"edit pro",
+				"Project: Edit Project"
+			],
+			[
+				"toggle",
+				"Word Wrap: Toggle"
+			],
+			[
+				"emmet se",
+				"Preferences: Emmet Settings"
+			],
+			[
+				"toggle ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settng",
+				"Preferences: Settings"
+			],
+			[
+				"Prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"new fi",
+				"File: New File"
+			],
+			[
+				"new fol",
+				"File: New Folder"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pretter",
+				"JsPrettier: Format Code"
+			],
+			[
+				"new file",
+				"File: New File"
+			],
+			[
+				"enable ls ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"save project",
+				"Project: Save As"
+			],
+			[
+				"save pr",
+				"Project: Save As"
+			],
+			[
+				"toggle min",
+				"View: Toggle Minimap"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"disable lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"LSP Se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"ins",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"terminus sett",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"Terminus O",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Termins",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"Setting",
+				"Preferences: Settings"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/list-ops"
+	],
+	"file_history":
+	[
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/list-ops/lib/list_ops.dart",
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/list-ops/test/list_ops_test.dart",
+		"/C/Users/Jeremiah Olatunde/home/coding/exercism/dart/list-ops/README.md",
+		"/C/Users/Jeremiah Olatunde/home/coding/sandbox/dart/hello_dart/lib/hello_dart.dart",
+		"/C/Users/Jeremiah Olatunde/home/coding/sandbox/dart/hello_dart/bin/hello_dart.dart",
+		"/C/Users/Jeremiah Olatunde/home/coding/sandbox/dart/hello_dart/.git/config",
+		"/C/Users/Jeremiah Olatunde/.gitconfig",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/x/schemas.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/x/scripts/output/countries.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/x/scripts/fetchCountries.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/x/api.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/package.json",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/x/scripts.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/auth/verifyOTP2.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/interface/authTypes.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/zod/lib/ZodError.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/auth/userlogin.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/pay-invoice/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/.git/MERGE_MSG",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/.env",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/api/requests.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/utilities/utils.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/hooks/useRefreshToken.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/axios/index.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/typescript/lib/lib.es5.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/auth.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/onboarding/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/invoice-receipt/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/invoice/invoice-activity/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/ActivityCard.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/invoice.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/@types/react/index.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/not-found.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/NewItemModal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/invoice/create/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/.git/COMMIT_EDITMSG",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/wallets/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/SendInvoiceModal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/interface/InvoiceInterfaces.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/view-invoice/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/fxRates.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/react-loader-spinner/dist/types.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/.gitignore",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/InvoiceConfig.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/.git/config",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/tables/ProductsTable.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/InputAndSelectorBox.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/product/AddInvoiceProductModal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/next.config.js",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/utilities/s3-upload.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/middleware.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/invoice-receipt/[id]/Page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/invoice/AddBusinessModal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/InputBox.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/ui/components/toast.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/api/services.ts",
+		"/C/Users/Jeremiah Olatunde/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/invoice/invoice-config/page.tsx",
+		"/C/Users/Jeremiah Olatunde/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/invoice.config.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/lib/data/business/getUserBusiness.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/node_modules/caniuse-lite/data/features/view-transitions.js",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/invoice/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala/yala-invoicing-fe/src/app/(dashboard)/invoice/create/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/sublime-projects/yala-invoicing-fe.sublime-project",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/invoice/InvoiceConfig.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/data/invoice.config.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/api/services.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/utilities/s3-upload.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/pay-invoice/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/data/checkout.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoice/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/invoice/product/AddInvoiceProductModal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/invoice/tables/ProductsTable.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/Button.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/Close.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/modal/Modal.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/.env",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/data/invoice.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/data/business.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/view-invoice/[id]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/komorebi.json",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/utilities/currrency-formatter.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/data/fxRates.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/helpers/countriesAndStates.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/node_modules/country-to-currency/index.d.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/components/TableContainer.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/create-invoice/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/create-invoice/components/InvoiceForm.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/components/InvoicingHeader.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/components/Overview.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/create-invoice/InvoiceForm.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/create-invoice/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoice/create/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/Header.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoice/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-csr/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/sandbox.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-csr/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/error.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/error.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-csr/page.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/utilities/Providers/ReactQueryProvider.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicing-ssr/[currency]/[table]/[page]/utilities-fp.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/api/client.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/api/requests.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/lib/interface/types.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/dashboard/navlink.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/TableNavigation.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/InvoicingHeader.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/NOTES.md",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/layout.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/TableContainer.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/components/Overview.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/utilities.ts",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/Authentication/LogoutTimer.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/(dashboard)/invoicingV2/[currency]/[table]/[page]/NOTES.md",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/invoice/InvoiceOverviewTables.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/invoice/tables/PaidTable.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/src/app/ui/components/CopyFunction.tsx",
+		"/C/Users/Jeremiah Olatunde/home/coding/work/yala-invoicing-fe/tailwind.config.ts"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 191.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"true",
+			"false",
+			"true"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 71.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 254.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "list-ops.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test/",
+				"test\\list_ops_test.dart"
+			],
+			[
+				"lib",
+				"lib\\list_ops.dart"
+			],
+			[
+				"lb",
+				"lib\\list_ops.dart"
+			],
+			[
+				"test",
+				"test\\list_ops_test.dart"
+			],
+			[
+				"bin",
+				"bin\\hello_dart.dart"
+			],
+			[
+				"schemas",
+				"src\\lib\\x\\schemas.ts"
+			],
+			[
+				"schemas.ts",
+				"src\\lib\\x\\schemas.ts"
+			],
+			[
+				"x/ap",
+				"src\\lib\\x\\api.ts"
+			],
+			[
+				"pay-in",
+				"src\\app\\pay-invoice\\[id]\\page.tsx"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"invoice-re",
+				"src\\app\\invoice-receipt\\[id]\\page.tsx"
+			],
+			[
+				"NewI",
+				"src\\app\\ui\\components\\invoice\\NewItemModal.tsx"
+			],
+			[
+				"invoice/create",
+				"src\\app\\(dashboard)\\invoice\\create\\page.tsx"
+			],
+			[
+				"wallets/",
+				"src\\app\\(dashboard)\\wallets\\page.tsx"
+			],
+			[
+				"invoice/crea",
+				"src\\app\\(dashboard)\\invoice\\create\\page.tsx"
+			],
+			[
+				"invoie/create",
+				"src\\app\\(dashboard)\\invoice\\create\\page.tsx"
+			],
+			[
+				"invoicecreate",
+				"src\\app\\(dashboard)\\invoice\\create\\page.tsx"
+			],
+			[
+				"pay-invoice",
+				"src\\app\\pay-invoice\\[id]\\page.tsx"
+			],
+			[
+				"pay-inv",
+				"src\\app\\pay-invoice\\[id]\\page.tsx"
+			],
+			[
+				"view-in",
+				"src\\app\\view-invoice\\[id]\\page.tsx"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"Invoice",
+				"src\\app\\ui\\components\\invoice\\InvoiceConfig.tsx"
+			],
+			[
+				"next.",
+				"next.config.js"
+			],
+			[
+				"/create/",
+				"src\\app\\(dashboard)\\invoice\\create\\page.tsx"
+			],
+			[
+				"InvoiceConf",
+				"src\\app\\ui\\components\\invoice\\InvoiceConfig.tsx"
+			],
+			[
+				"ser",
+				"src\\lib\\api\\services.ts"
+			],
+			[
+				"servic",
+				"src\\lib\\api\\services.ts"
+			],
+			[
+				"request",
+				"src\\lib\\api\\requests.ts"
+			],
+			[
+				"InvoiceConfig",
+				"src\\app\\ui\\components\\invoice\\InvoiceConfig.tsx"
+			],
+			[
+				"payinvo",
+				"src\\app\\pay-invoice\\[id]\\page.tsx"
+			],
+			[
+				"viewinv",
+				"src\\app\\view-invoice\\[id]\\page.tsx"
+			],
+			[
+				"view-invoice",
+				"src\\app\\view-invoice\\[id]\\page.tsx"
+			],
+			[
+				"data/chec",
+				"src\\lib\\data\\checkout.ts"
+			],
+			[
+				"checkout",
+				"src\\lib\\data\\checkout.ts"
+			],
+			[
+				"services",
+				"src\\lib\\api\\services.ts"
+			],
+			[
+				"invoice.ts",
+				"src\\lib\\data\\invoice.ts"
+			],
+			[
+				"[][]page",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\page.tsx"
+			],
+			[
+				"[]pa",
+				"src\\app\\pay-invoice\\[id]\\page.tsx"
+			],
+			[
+				"[]la",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\layout.tsx"
+			],
+			[
+				"utilities.ts",
+				"src\\app\\(dashboard)\\invoicing-csr\\utilities.ts"
+			],
+			[
+				"createlayout",
+				"src\\app\\(dashboard)\\invoicing-ssr\\create-invoice\\layout.tsx"
+			],
+			[
+				"san",
+				"sandbox.ts"
+			],
+			[
+				"[]util",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"[]lat",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\layout.tsx"
+			],
+			[
+				"Overview",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"[]layout",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\layout.tsx"
+			],
+			[
+				"[]utili",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"csrlayout",
+				"src\\app\\(dashboard)\\invoicing-csr\\layout.tsx"
+			],
+			[
+				"[]uti",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"[]Over",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"data/business",
+				"src\\lib\\data\\business.ts"
+			],
+			[
+				"[]utl",
+				"src\\app\\(dashboard)\\invoicing-ssr\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"client.ts",
+				"src\\lib\\api\\client.ts"
+			],
+			[
+				"lay",
+				"src\\app\\layout.tsx"
+			],
+			[
+				"navlin",
+				"src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"Navlink",
+				"src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"notes",
+				"src\\app\\(dashboard)\\invoicingV2\\NOTES.md"
+			],
+			[
+				"[]layo",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\layout.tsx"
+			],
+			[
+				"[]Ove",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"tabeCon",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\TableContainer.tsx"
+			],
+			[
+				"InvoiceHeade",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\InvoicingHeader.tsx"
+			],
+			[
+				"[]tab",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\TableNavigation.tsx"
+			],
+			[
+				"[]ta",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\TableContainer.tsx"
+			],
+			[
+				"[]table",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\TableContainer.tsx"
+			],
+			[
+				"utilities",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"Invoicin",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\InvoicingHeader.tsx"
+			],
+			[
+				"Overvi",
+				"src\\app\\(dashboard)\\invoicingV2\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"NOTES",
+				"src\\app\\(dashboard)\\invoicingV2\\NOTES.md"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"tail",
+				"tailwind.config.ts"
+			],
+			[
+				"Table.ts",
+				"src\\app\\ui\\components\\Table\\Table.tsx"
+			],
+			[
+				"Logout",
+				"src\\app\\ui\\components\\Authentication\\LogoutTimer.tsx"
+			],
+			[
+				"api/requ",
+				"src\\lib\\api\\requests.ts"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"sandb",
+				"sandbox.ts"
+			],
+			[
+				"Overtsx",
+				"src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"Over",
+				"src\\app\\(dashboard)\\invoicing-experimental\\Overview.tsx"
+			],
+			[
+				"TableNa",
+				"src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\TableNavigation.tsx"
+			],
+			[
+				"app/page",
+				"src\\app\\page.tsx"
+			],
+			[
+				"middle",
+				"src\\middleware.ts"
+			],
+			[
+				"experimlay",
+				"src\\app\\(dashboard)\\invoicing-experimental\\layout.tsx"
+			],
+			[
+				"layo",
+				"src\\app\\layout.tsx"
+			],
+			[
+				"hookV2",
+				"src\\app\\(dashboard)\\invoicing-experimental\\hooksV2.ts"
+			],
+			[
+				"experutil",
+				"src\\app\\(dashboard)\\invoicing-experimental\\utilities.ts"
+			],
+			[
+				"experlayo",
+				"src\\app\\(dashboard)\\invoicing-experimental\\layout.tsx"
+			],
+			[
+				"-xlayout",
+				"src\\app\\(dashboard)\\invoicing-experimental\\layout.tsx"
+			],
+			[
+				"-x/lay",
+				"src\\app\\(dashboard)\\invoicing-x-sc\\create-invoice\\layout.tsx"
+			],
+			[
+				"[]Invo",
+				"src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\InvoicingHeader.tsx"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"Overvie",
+				"src\\app\\(dashboard)\\invoicing-experimental\\Overview.tsx"
+			],
+			[
+				"hooks",
+				"src\\app\\(dashboard)\\invoicing-experimental\\hooks.ts"
+			],
+			[
+				"x-scpage.tsx",
+				"src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\page.tsx"
+			],
+			[
+				"ccreatelayout",
+				".next\\static\\chunks\\app\\(dashboard)\\invoicing-x-sc\\create-invoice\\layout.js"
+			],
+			[
+				"tailwin",
+				"yala-invoicing-fe\\tailwind.config.ts"
+			],
+			[
+				"NoIn",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\NoInvoices.tsx"
+			],
+			[
+				"InvoicingHea",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\InvoicingHeader.tsx"
+			],
+			[
+				"utilit",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"TableCon",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\TableContainer.tsx"
+			],
+			[
+				"utili",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\utilities.ts"
+			],
+			[
+				"pack",
+				"yala-invoicing-fe\\package.json"
+			],
+			[
+				"Overviw",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\components\\Overview.tsx"
+			],
+			[
+				"overvi",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\Overview.tsx"
+			],
+			[
+				"header.ts",
+				"yala-invoicing-fe\\src\\app\\ui\\components\\Header.tsx"
+			],
+			[
+				"Overv",
+				"yala-invoicing-fe\\src\\app\\(dashboard)\\invoicing-x-sc\\[currency]\\[table]\\[page]\\Overview.tsx"
+			],
+			[
+				"Header.ts",
+				"yala-invoicing-fe\\src\\app\\ui\\components\\Header.tsx"
+			],
+			[
+				"nav",
+				"yala-invoicing-fe\\node_modules\\next\\navigation.js"
+			],
+			[
+				"navl",
+				"yala-invoicing-fe\\src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"navlink",
+				"yala-invoicing-fe\\src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"navln",
+				"yala-invoicing-fe\\src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"navli",
+				"yala-invoicing-fe\\src\\app\\ui\\dashboard\\navlink.tsx"
+			],
+			[
+				"Side",
+				"yala-invoicing-fe\\src\\app\\ui\\dashboard\\sidenav.tsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 292.0,
+		"last_filter": "service",
+		"selected_items":
+		[
+			[
+				"service",
+				"C:\\Users\\Jeremiah Olatunde\\home\\coding\\work\\sublime-projects\\yala-invoicing-service.sublime-project"
+			],
+			[
+				"ser",
+				"C:\\Users\\Jeremiah Olatunde\\home\\coding\\work\\sublime-projects\\yala-invoicing-service.sublime-project"
+			],
+			[
+				"invoi",
+				"C:\\Users\\Jeremiah Olatunde\\home\\coding\\work\\sublime-projects\\yala-invoicing-service.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Jeremiah Olatunde\\home\\coding\\sandbox\\java\\core-java\\core-java.sublime-workspace"
+			],
+			[
+				"invo",
+				"C:\\Users\\Jeremiah Olatunde\\home\\coding\\work\\sublime-projects\\yala-invoicing-service.sublime-project"
+			]
+		],
+		"width": 468.0
+	},
+	"select_symbol":
+	{
+		"height": 91.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Page"
+			]
+		],
+		"width": 574.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
